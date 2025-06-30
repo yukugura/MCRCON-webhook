@@ -1,0 +1,2 @@
+# MCRCON-webhook
+MCRCONを利用したプレイヤー入退室ログのDiscordWebhook通知
