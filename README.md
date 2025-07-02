@@ -37,3 +37,5 @@ webhook_url：https://discord.com/api/webhooks/xxxxxxxx
 
 # ライセンス
 このプロジェクトは **MITライセンス** の下で公開されています。詳細については、リポジトリ内の [LICENSE](https://github.com/yukugura/MCRCON-webhook/blob/main/LICENSE) ファイルをご覧ください。
+
+Thank you for [Contributors](https://github.com/yukugura/MCRCON-webhook/graphs/contributors)
