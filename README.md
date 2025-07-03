@@ -25,6 +25,13 @@ webhook_url：https://discord.com/api/webhooks/xxxxxxxx
 
 **赤色矢印**で示した**３つの箇所**を変更してください。
 ※画像の設定値は、初期宣言と同じ内容を設定した場合のものです。
+
+`enable-rcon=false` ▶ `enable-rcon=true`
+
+`rcon.password=` ▶ `rcon.password=<任意のパスワード>`
+
+`rcon.port=25575` ▶ `rcon.port=<任意のポート番号>`
+
 ![server-properties](https://github.com/user-attachments/assets/93e18df4-d5db-43fa-a84d-12428be50461)
 
 ## 手順３
